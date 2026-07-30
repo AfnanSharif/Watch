@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=654ea3,eaafc8&height=200&section=header&text=Watch&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=654ea3,eaafc8&height=200&section=header&text=WatchLit&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <img src="https://img.icons8.com/?id=43605&format=png&size=100" width="90" />
 
